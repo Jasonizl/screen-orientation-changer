@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.2092
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "ScreenOrientationChangeTool", "ScreenOrientationChangeTool\ScreenOrientationChangeTool.vbproj", "{9A4F5461-7DF1-45F9-A65B-A881C9ABA6E8}"
+EndProject
+Project("{F184B08F-C81C-45F6-A57F-5ABD9991F28F}") = "DnDScreenTool", "..\WindowsApp1\WindowsApp1\DnDScreenTool.vbproj", "{A9350909-36AA-4E04-9111-ABCE8F46617C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A4F5461-7DF1-45F9-A65B-A881C9ABA6E8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A4F5461-7DF1-45F9-A65B-A881C9ABA6E8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A4F5461-7DF1-45F9-A65B-A881C9ABA6E8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A4F5461-7DF1-45F9-A65B-A881C9ABA6E8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A9350909-36AA-4E04-9111-ABCE8F46617C}.Debug|Any CPU.ActiveCfg = Release|Any CPU
+		{A9350909-36AA-4E04-9111-ABCE8F46617C}.Debug|Any CPU.Build.0 = Release|Any CPU
+		{A9350909-36AA-4E04-9111-ABCE8F46617C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9350909-36AA-4E04-9111-ABCE8F46617C}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {716BB021-9AFC-4A26-81B7-4283F588B2D1}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,12 @@
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\bin\Debug\ScreenOrientationChangeTool.exe.config
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\bin\Debug\ScreenOrientationChangeTool.exe
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\bin\Debug\ScreenOrientationChangeTool.pdb
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\bin\Debug\ScreenOrientationChangeTool.xml
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.vbprojAssemblyReference.cache
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.Form1.resources
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.Resources.resources
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.vbproj.GenerateResource.cache
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.vbproj.CoreCompileInputs.cache
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.exe
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.xml
+C:\Users\ipolz\source\repos\ScreenOrientationChangeTool\ScreenOrientationChangeTool\obj\Debug\ScreenOrientationChangeTool.pdb
